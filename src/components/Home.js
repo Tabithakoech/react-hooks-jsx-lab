@@ -6,7 +6,7 @@ const divStyle = {
 function Home() {
   // update the JSX being returned!
   return (
-  <div id="Home">
+  <div id="home">
     <h1 style={divStyle} > {name} is a Web Developer from  {city} city</h1>
   </div>)
   
